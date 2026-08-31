@@ -1776,3 +1776,37 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "From Sinai to Babylon and the Arithmetic Series of Seven Punishments",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 13,
+      "part_title": "Final Mathematical Synthesis of the Covenant Punishment Series",
+      "main_heading": "From Sinai to Babylon: The Chronological Arc of Divine Judgment and Restitution",
+      "summary": "This part completes Section 18 with the final mathematical synthesis, providing the exact step-by-step arithmetic addition of all five terms (1,035.177) and reconciling it directly against the 1,035.000-year historical span.",
+      "sections": [
+        {
+          "section_title": "18. Analytical Appendix: Sequential Mapping of Punishment Terms to Historical Epochs (Continued)",
+          "subsections": [
+            {
+              "subsection_title": "C. Final Mathematical Synthesis",
+              "content": "Combining all five calculated components demonstrates the exact step-by-step arithmetic:",
+              "equations": [
+                {
+                  "label": "Total Score Summation",
+                  "formula": "Total Score = T_1 + T_2 + T_3 + T_4 + T_5 = 39.000 + 27.300 + 19.110 + 13.377 + 936.390 = 1,035.177"
+                },
+                {
+                  "label": "Historical Span Calculation",
+                  "formula": "Historical Span = (978 - 11 - 2) + 70 = 1,035.000 Years"
+                }
+              ],
+              "analysis": "The step-by-step derivation confirms that the mathematical punishment progression mirrors the physical history of Israel from the erection of the Tabernacle to the end of the Babylonian exile, achieving alignment within a fraction of a single year (0.177 years approx 64.6 days)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
