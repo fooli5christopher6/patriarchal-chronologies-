@@ -951,3 +951,80 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "From Sinai to Babylon and the Arithmetic Series of Seven Punishments",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 5,
+      "part_title": "Calendar Dynamics, Architectural Legacy, and Overall Synthesis",
+      "main_heading": "From Sinai to Babylon: The Chronological Arc of Divine Judgment and Restitution",
+      "summary": "This part details the calendar variance calculations between solar and lunar systems, provides the complete structural diagram of biblical time, and begins the final synthesis of the architectural legacy of the 1,035-year model.",
+      "sections": [
+        {
+          "section_title": "8. Methodological Appendix (Continued)",
+          "subsections": [
+            {
+              "subsection_title": "B. Solar vs. Lunar Calendar Variance",
+              "content": "A subtle aspect of the 0.177-year variance between the mathematical formula (1,035.177) and the historical integer (1,035.000) lies in the difference between solar and lunar calendar systems. The biblical calendar operated as a lunisolar system, periodically inserting an intercalary month to keep seasonal festivals aligned with agricultural cycles.",
+              "calendar_metrics": [
+                {
+                  "type": "Pure Solar Year",
+                  "value": "365.2425 days"
+                },
+                {
+                  "type": "Lunar Year (12 Synodic Months)",
+                  "value": "354.367 days"
+                },
+                {
+                  "type": "Difference per Year",
+                  "value": "10.8755 days"
+                }
+              ],
+              "variance_calculation": {
+                "formula": "0.177 * 365.25 days",
+                "result_days": 64.65,
+                "analysis": "In ancient Near Eastern calendar administration, intercalary adjustments of one to two full lunar months (approx. 59 to 60 days) were routinely added every 2 to 3 years. Over a span exceeding a millennium (1,035 years), a variance of roughly 64 days falls well within the expected margin for calendar intercalation across different historical eras."
+              }
+            },
+            {
+              "subsection_title": "C. The Structural Unity of Biblical Time",
+              "content": "The synthesis of historical chronology, legal discipline codes, and geometric progressions demonstrates that ancient biblical chronology functions as a unified discipline.",
+              "diagrams": [
+                {
+                  "name": "THE STRUCTURAL UNITY OF BIBLICAL TIME",
+                  "structure": "[ Primary Biblical Law ] (Leviticus 26 / Deuteronomy 25) -> Legal Metrics (39 Stripes, 7-Fold Scaling) -> Historical Arc (965 Base Years: Sinai to Jehoiakim) -> Prophetic Settlement (70-Year Sabbath Restitution) -> [ Final Convergence: 1,035 Years ]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "9. Synthesis and Conclusion: The Architectural Legacy of Biblical Time",
+          "content": "The investigation into the 1,035-year chronological arc reveals a structural coherence that unifies law, history, and prophecy within ancient biblical literature. From the initial erection of the Tabernacle in the wilderness of Sinai to the final return of the exiles under the Persian decree, the unfolding of Israel’s historical narrative demonstrates an underlying mathematical order.",
+          "subsections": [
+            {
+              "subsection_title": "A. Key Pillars of the 1,035-Year Model",
+              "pillars": [
+                {
+                  "pillar_number": 1,
+                  "title": "The Sequential Historical Record",
+                  "details": "Counting step-by-step from the Exodus through the historical durations of the Judges, the United Monarchy, and the Kings of Judah yields a total span of 978 years to the fall of Zedekiah. Adjusting for the 2 years preceding the Tabernacle’s construction and stepping back 11 years from Zedekiah to the primary deportation under Jehoiakim isolates a core monarchical epoch of 965 years."
+                },
+                {
+                  "pillar_number": 2,
+                  "title": "The Legal Restitution Mechanism",
+                  "details": "Applying the prophetic mandate of Jeremiah (2 Chronicles 36:21) and the statutory warnings of Leviticus 26, the land required a 70-year Sabbath rest to balance centuries of unkept sabbatical cycles. Adding these 70 years of desolation directly to the 965-year base period completes the historic cycle at 1,035 years.",
+                  "scriptural_references": [
+                    "2 Chronicles 36:21",
+                    "Leviticus 26"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
