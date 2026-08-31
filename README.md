@@ -33,3 +33,60 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "patriarchal chronologies and the historical lineage of the Israelites",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 2,
+      "part_title": "Tabulating the Antediluvian and Postdiluvian Relays",
+      "main_heading": "The Chronological Matrix of Israelite History: Tabulating the Patriarchal Lifespans, Sabbatical Anchors, Judges, and Monarchical Regnal Years",
+      "summary": "This part tabulates the exact generational relay from Adam to Abraham, outlining the birth-age parameters, remaining lifespans, total lifespans, and Anno Mundi (AM) anchor years through the Antediluvian and Postdiluvian eras.",
+      "sections": [
+        {
+          "section_title": "2. Tabulating the Antediluvian and Postdiluvian Relays",
+          "content": "To visualize the precise mechanics of this generational relay race, the mathematical progression from Creation down to Abraham can be tabulated directly using the birth-age parameters (the baton hand-off markers) and total lifespans.",
+          "tables": [
+            {
+              "table_title": "Antediluvian Patriarchs",
+              "headers": [
+                "Patriarch",
+                "Age at Fatherhood (Baton Hand-off)",
+                "Remaining Lifespan",
+                "Total Lifespan",
+                "Anno Mundi (AM) Birth Year"
+              ],
+              "rows": [
+                ["Adam", "130 years (Seth)", "800 years", "930 years", "AM 1"],
+                ["Seth", "105 years (Enosh)", "807 years", "912 years", "AM 130"],
+                ["Enosh", "90 years (Kenan)", "815 years", "905 years", "AM 235"],
+                ["Kenan", "70 years (Mahalalel)", "840 years", "910 years", "AM 325"],
+                ["Mahalalel", "65 years (Jared)", "830 years", "895 years", "AM 395"],
+                ["Jared", "162 years (Enoch)", "800 years", "962 years", "AM 460"],
+                ["Enoch", "65 years (Methuselah)", "300 years", "365 years", "AM 622"],
+                ["Methuselah", "187 years (Lamech)", "782 years", "969 years", "AM 687"],
+                ["Lamech", "182 years (Noah)", "595 years", "777 years", "AM 874"],
+                ["Noah", "500 years (Shem)", "450 years", "950 years", "AM 1056"],
+                ["The Great Deluge", "—", "—", "—", "AM 1656"]
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "3. The Postdiluvian Re-Anchoring: From Shem to Terah",
+          "content": "Following the cosmic reset of the Flood at AM 1656, the relay continues through Shem's post-flood lineage recorded in Genesis 11:10–26. While total human lifespans begin a step-down curve, the reproductive countdown remains unbroken, carrying the anchor year straight into the Patriarchal Age. Through this continuous sequence, the biblical chronologist establishes an objective temporal grid: every year from the origin of the narrative down to the call of Abraham is counted not by external dynastic lists, but by the generational links of the patriarchy.",
+          "scriptural_references": [
+            "Genesis 11:10–26"
+          ],
+          "formula": "Flood Baseline (AM 1656) + 2 yrs (Arphaxad) + 35 + 30 + 34 + 30 + 32 + 30 + 29 + 70 => Birth of Abram (AM 1948)",
+          "diagrams": [
+            {
+              "name": "POSTDILUVIAN SEQUENCING",
+              "structure": "[SHEM] (2 yrs post) -> [ARPHAXAD] (35 yrs) -> [SHELAH] (30 yrs) -> [EBER] (34 yrs) -> ... -> [TERAH] (70 yrs) -> [ABRAM] (AM 1948)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
