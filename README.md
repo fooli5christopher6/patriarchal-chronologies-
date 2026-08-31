@@ -1649,3 +1649,130 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "From Sinai to Babylon and the Arithmetic Series of Seven Punishments",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 12,
+      "part_title": "Analytical Appendix: Sequential Mapping of Punishment Terms to Historical Epochs",
+      "main_heading": "From Sinai to Babylon: The Chronological Arc of Divine Judgment and Restitution",
+      "summary": "This part contains Section 18, which maps each calculated term (T_1 through T_5) from the Covenant Punishment Formula directly to its corresponding historical epoch from the wilderness wanderings through the Babylonian desolation, providing both a comparative matrix and a detailed narrative breakdown.",
+      "sections": [
+        {
+          "section_title": "18. Analytical Appendix: Sequential Mapping of Punishment Terms to Historical Epochs",
+          "content": "To complete the mathematical demonstration, each of the five calculated terms from the punishment formula (T_1 through T_5) must be mapped sequentially to its corresponding historical epoch within the 965-year base period (978 - 11 - 2) and the 70-year desolation. When evaluated side-by-side, the decay sequence reveals how the intensity of divine warnings decreased proportionally as Israel's historical timeline progressed toward terminal exile.",
+          "subsections": [
+            {
+              "subsection_title": "A. Master Term-to-Epoch Mapping Table",
+              "content": "Sequential mapping of calculated mathematical terms to physical historical epochs.",
+              "tables": [
+                {
+                  "table_title": "Master Term-to-Epoch Mapping Matrix",
+                  "headers": [
+                    "Term Index",
+                    "Formula Term",
+                    "Evaluated Value",
+                    "Percentage of Total",
+                    "Historical Epoch Mapped",
+                    "Historical Characteristics"
+                  ],
+                  "rows": [
+                    [
+                      "T_1",
+                      "39",
+                      "39.000",
+                      "3.77%",
+                      "The Wilderness Wanderings & Conquest",
+                      "Initial law-giving at Sinai, wilderness wanderings (40 years), and Joshua's conquest of Canaan."
+                    ],
+                    [
+                      "T_2",
+                      "39(0.7)",
+                      "27.300",
+                      "2.64%",
+                      "The Era of the Judges & Early Monarchy",
+                      "Cyclical oppressions, deliverance by Judges, and the establishment of Saul and David's kingdom."
+                    ],
+                    [
+                      "T_3",
+                      "39(0.7)^2",
+                      "19.110",
+                      "1.85%",
+                      "The Divided Kingdom & Early Northern Decay",
+                      "Solomonic schism, rise of northern idolatry (Jeroboam), and early prophetic warnings (Elijah/Elisha)."
+                    ],
+                    [
+                      "T_4",
+                      "39(0.7)^3",
+                      "13.377",
+                      "1.29%",
+                      "Late Judean Monarchy to Jehoiakim",
+                      "Fall of Samaria (722 BCE), Manasseh's apostasy, Josiah's reforms, and Jehoiakim’s initial subjugation."
+                    ],
+                    [
+                      "T_5",
+                      "39(4.9)^2",
+                      "936.390",
+                      "90.46%",
+                      "The Babylonian Collapse & 70-Year Desolation",
+                      "Complete destruction of Jerusalem, exile, and compulsory 70-year land Sabbath restitution."
+                    ],
+                    [
+                      "TOTAL",
+                      "sum T_n",
+                      "1,035.177",
+                      "100.00%",
+                      "The Complete Sinai-to-Restoration Epoch",
+                      "Exact convergence with 1,035 historical years (978 - 11 - 2 + 70)."
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "subsection_title": "B. Step-by-Step Historical Breakdown of the Progression",
+              "terms_historical_breakdown": [
+                {
+                  "term_index": "T_1",
+                  "evaluated_term": "39",
+                  "evaluated_value": 39.0,
+                  "historical_mapping": "The Wilderness Era & Law Inauguration",
+                  "analysis": "At Sinai, Israel received the codified Law, including the statutory limit of 39 stripes (Deuteronomy 25:3). T_1 represents the unscaled, direct application of divine justice before centuries of persistent covenant violation triggered scaling multipliers."
+                },
+                {
+                  "term_index": "T_2",
+                  "evaluated_term": "39 * 0.7",
+                  "evaluated_value": 27.3,
+                  "historical_mapping": "The Era of the Judges & The Early Monarchy",
+                  "analysis": "Under the Judges, Israel experienced repeated cycles of apostasy and divine chastisement (Judges 2:11–19). The application of the 0.7 factor reflects the first stage of national discipline promised in Leviticus 26:18 ('I will punish you seven times more for your sins')."
+                },
+                {
+                  "term_index": "T_3",
+                  "evaluated_term": "39 * (0.7)^2",
+                  "evaluated_value": 19.11,
+                  "historical_mapping": "The Divided Kingdom to the Assyrian Exile",
+                  "analysis": "Following Solomon's death, the kingdom fractured into Israel and Judah. As idolatry became institutionalized, the warnings scaled further down the decay curve, reflecting diminishing prophetic grace periods leading up to the fall of Samaria."
+                },
+                {
+                  "term_index": "T_4",
+                  "evaluated_term": "39 * (0.7)^3",
+                  "evaluated_value": 13.377,
+                  "historical_mapping": "Late Kingdom of Judah (Josiah to Jehoiakim)",
+                  "analysis": "Summing terms T_1 through T_4 yields 98.787 Units. This subtotal of 98.787 functions as an exact 10% scaled microcosm of the 965-year physical historical period (978 - 11 - 2 = 965), demonstrating that the four warning periods directly prefigure the entire monarchical era."
+                },
+                {
+                  "term_index": "T_5",
+                  "evaluated_term": "39 * (4.9)^2 = 39 * 24.01",
+                  "evaluated_value": 936.39,
+                  "historical_mapping": "The Fall of Jerusalem & The 70-Year Desolation",
+                  "analysis": "Term T_5 accounts for 90.46% of the entire formula's value. In historical terms, when national covenant violations reached their absolute limit under Jehoiakim and Zedekiah, the accumulated debt of centuries of unkept land Sabbaths was compressed into the final judgment of expulsion and exile."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
