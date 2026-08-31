@@ -2304,3 +2304,154 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "The Messianic Age and the Prophetic Legacy",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 6,
+      "part_title": "Jubilary Restoration, Sanctuary Typology, and the Chronology of Daniel's Seventy Weeks",
+      "main_heading": "The Messianic Age and the Prophetic Legacy",
+      "summary": "This part completes Section 22 with Subsection B on the Anointing for Jubilary Restoration, details Section 23 on the Typological Architecture of the Tabernacle and Temple, and initiates the chronological breakdown of Daniel's Seventy Weeks starting with the 548 BCE Jehoiakim anchor and the 70 Years of Desolation.",
+      "sections": [
+        {
+          "section_title": "22. The Pneumatological Dimension: The Spirit of the Lord upon the Anointed One (Continued)",
+          "subsections": [
+            {
+              "subsection_title": "B. The Anointing for Deliverance and Jubilary Restoration",
+              "content": "The specific functional duties of the Messiah’s Spirit-empowered ministry are explicitly listed in Isaiah 61:1–3, a foundational text that defines the core mission of the Messianic Age:",
+              "scriptural_quote": {
+                "reference": "Isaiah 61:1–3",
+                "text": "The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to proclaim good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners, to proclaim the year of the Lord’s favor..."
+              },
+              "jubilee_framework_realizations": [
+                {
+                  "concept": "Economic and Spiritual Liberty",
+                  "description": "Just as the 50th-year Jubilee restored lost ancestral land and canceled all enslaving debts, the Messiah's anointing accomplishes total liberation from the systemic curse of sin and spiritual captivity."
+                },
+                {
+                  "concept": "The Exchange of Ashes for Beauty",
+                  "description": "The Messiah replaces human mourning with the 'oil of joy' and garments of praise, establishing His redeemed people as 'oaks of righteousness, a planting of the Lord for the display of his splendor.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "23. The Typological Architecture of the Tabernacle and Temple",
+          "content": "The physical structures commanded by God in the Mosaic and Monarchical eras—the Wilderness Tabernacle (Exodus 25–40) and Solomon’s Temple (1 Kings 6–8)—were not merely temporary worship centers; they were physical blueprints of the Messianic person, work, and age.",
+          "subsections": [
+            {
+              "subsection_title": "A. The Structural Mapping of the Sanctuary",
+              "content": "Every major component of the Tabernacle corresponds directly to a specific aspect of the Messiah’s identity and redemptive work:",
+              "tables": [
+                {
+                  "table_title": "Tabernacle Typology Matrix",
+                  "headers": [
+                    "Tabernacle Element",
+                    "Scriptural Reference",
+                    "Typological Counterpart in the Messiah",
+                    "Messianic Age Realization"
+                  ],
+                  "rows": [
+                    [
+                      "The Brazen Altar",
+                      "Exodus 27:1–8",
+                      "The Substitute Sacrifice (Isaiah 53:7)",
+                      "The singular, definitive atonement for human sin."
+                    ],
+                    [
+                      "The Laver of Brass",
+                      "Exodus 30:17–21",
+                      "The Cleansing Word & Spirit (Ezekiel 36:25; John 15:3)",
+                      "Complete moral purification for all who enter the covenant."
+                    ],
+                    [
+                      "The Golden Lampstand",
+                      "Exodus 25:31–40",
+                      "The True Light of the World (Isaiah 42:6; John 8:12)",
+                      "The illumination of divine wisdom dispelling global darkness."
+                    ],
+                    [
+                      "Table of Showbread",
+                      "Exodus 25:23–30",
+                      "The Bread of Life (Proverbs 9:5; John 6:35)",
+                      "Eternal spiritual nourishment provided at the Messianic Banquet."
+                    ],
+                    [
+                      "Altar of Incense",
+                      "Exodus 30:1–10",
+                      "The Intercessory Priest (Psalm 110:4; Isaiah 53:12)",
+                      "Perpetual priestly intercession bringing believers before God."
+                    ],
+                    [
+                      "The Veil",
+                      "Exodus 26:31–33",
+                      "The Flesh of the Messiah (Hebrews 10:19–20)",
+                      "The opening of direct, unhindered access to the divine presence."
+                    ],
+                    [
+                      "Ark of the Covenant",
+                      "Exodus 25:10–22",
+                      "The Throne of Mercy & Law (Psalm 89:14)",
+                      "The perfect unification of divine justice, holy law, and absolute mercy."
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "subsection_title": "B. From Built Sanctuary to Living Cosmos",
+              "content": "When Solomon completed the First Temple, the cloud of divine glory (Shekinah) filled the house so completely that the priests could not stand to minister (1 Kings 8:10–11). However, the prophetic witness consistently declared that physical stone structures could never fully contain God (Isaiah 66:1). In the Messianic Age, the physical sanctuary transitions into a dynamic, living reality:",
+              "living_temple_stages": [
+                {
+                  "stage_number": 1,
+                  "title": "The Person as the Temple",
+                  "description": "The Messiah Himself embodies the true Temple—the place where heaven and earth overlap completely (John 1:14; 2:19)."
+                },
+                {
+                  "stage_number": 2,
+                  "title": "The Corporate Body as the Dwelling",
+                  "description": "Through the pouring out of the Spirit promised in Joel 2:28, the global community of believers becomes a spiritual house built upon the foundation of the prophets (Ephesians 2:20–22)."
+                },
+                {
+                  "stage_number": 3,
+                  "title": "The Cosmic Sanctuary",
+                  "description": "Ultimately, in the fully realized Messianic Age, no physical temple building is needed, for the Lord God Almighty and the Anointed Lamb are its temple, filling the renewed cosmos with uncreated light (Isaiah 60:19–20)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "24. The Seventy Weeks of Daniel: The 548 BCE Anchor, the Seventy Years of Desolation, and Messianic Completion",
+          "content": "The prophecy of the Seventy Weeks, recorded in Daniel 9:24–27, represents one of the most structurally precise prophetic frameworks in the biblical canon. It outlines the exact timeline decreed for the Jewish nation and the holy city to complete transgression, make an end of sins, bring in everlasting righteousness, and seal up vision and prophecy. By grounding the timeline at the fall of King Jehoiakim in 548 BCE, followed immediately by the 70 years of desolation, a continuous chronological bridge connects the monarchical era to the restoration of Jerusalem and the ultimate appearance of the Messiah.",
+          "subsections": [
+            {
+              "subsection_title": "1. The Chronological Anchor: The Fall of Jehoiakim (548 BCE) and the 70 Years of Desolation",
+              "content": "The baseline of this prophetic model begins with the collapse of King Jehoiakim’s reign in 548 BCE. This event marked the final, irreversible descent of the Kingdom of Judah into Babylonian vassalage and exile, triggering the land Sabbath desolation period declared by the prophet Jeremiah (Jeremiah 25:11–12; 29:10).",
+              "diagrams": [
+                {
+                  "name": "EXILIC DESOLATION TIMELINE",
+                  "structure": "[ Fall of Jehoiakim ] (548 BCE) -> 70 Years of Desolation -> [ Decree to Rebuild Jerusalem ] (478 BCE)"
+                }
+              ],
+              "chronological_points": [
+                {
+                  "point_number": 1,
+                  "title": "The Fall of Jehoiakim (548 BCE)",
+                  "description": "The culmination of Judean covenant unfaithfulness led to Nebuchadnezzar’s campaign, ending Jehoiakim's 11-year reign and initiating the exilic phase."
+                },
+                {
+                  "point_number": 2,
+                  "title": "The 70-Year Desolation (548 BCE – 478 BCE)",
+                  "description": "Because Israel failed to keep the sabbatical year laws commanded in Leviticus 25 and 26, the land was decreed to lie desolate for 70 consecutive years to pay off its missed Sabbath rests (2 Chronicles 36:20–21). Counting 70 years forward from 548 BCE brings the historical baseline to 478 BCE, the exact terminus of the exilic desolation period and the legal boundary for royal decrees of restoration."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
