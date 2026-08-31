@@ -186,3 +186,84 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "patriarchal chronologies and the historical lineage of the Israelites",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 4,
+      "part_title": "The Monarchical Era to Canonical and Mathematical Synthesis",
+      "main_heading": "The Chronological Matrix of Israelite History: Tabulating the Patriarchal Lifespans, Sabbatical Anchors, Judges, and Monarchical Regnal Years",
+      "summary": "This part covers the monarchical era—from the United Monarchy through the Judean line to the fall of Jerusalem under Zedekiah—and provides canonical significance along with the mathematical synthesis of the dual tables.",
+      "sections": [
+        {
+          "section_title": "4. The Monarchical Era: United Monarchy to the Fall of Jerusalem",
+          "content": "The second major table of the matrix documents the monarchical era, beginning with the United Monarchy and proceeding through the line of David in Judah down to the Babylonian captivity.",
+          "diagrams": [
+            {
+              "name": "MONARCHICAL ERA OVERVIEW",
+              "structure": "[ United Monarchy ] (120 Years) -> [ Divided / Late Monarchy ] (370 Years) -> [ Final Exilic Descent ] (22+ Years)"
+            }
+          ],
+          "subsections": [
+            {
+              "subsection_title": "A. The United Monarchy (120 Years)",
+              "content": "The united kingdom is defined by three consecutive 40-year reigns, establishing the structural baseline for the Davidic dynasty.",
+              "reigns": [
+                {"king": "Saul", "duration": "40 years", "citation": "Acts 13:21"},
+                {"king": "David", "duration": "40 years", "citation": "1 Kings 2:11"},
+                {"king": "Solomon", "duration": "40 years", "citation": "1 Kings 11:42"}
+              ]
+            },
+            {
+              "subsection_title": "B. The Judean Royal Line (2 Kings & Chronicles)",
+              "content": "Following the division of the kingdom under Rehoboam, the Southern Kingdom of Judah preserved the Davidic bloodline across more than three centuries.",
+              "scriptural_references": ["2 Kings", "Chronicles", "2 Kings 24–25"],
+              "regnal_calculations": [
+                {
+                  "phase": "Early Judean Kings",
+                  "formula": "Rehoboam (17) + Abijah (3) + Asa (41) + Jehoshaphat (25) + Jehoram (8) + Ahaziah (1) + Athaliah (6) + Joash (40) = 141 Years"
+                },
+                {
+                  "phase": "Middle Judean Kings",
+                  "formula": "Amaziah (29) + Uzziah (52) + Jotham (16) + Ahaz (16) + Hezekiah (29) + Manasseh (55) + Amon (2) + Josiah (31) = 230 Years"
+                },
+                {
+                  "phase": "Final Collapse Spans",
+                  "kings": [
+                    {"king": "Jehoahaz", "duration": "0.25 years (1/4 year)"},
+                    {"king": "Jehoiakim", "duration": "11 years"},
+                    {"king": "Jehoiachin", "duration": "0.25 years (1/4 year)"},
+                    {"king": "Zedekiah", "duration": "11 years"}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "5. Canonical and Historical Significance",
+          "content": "The tabulating of these lifespans and regnal years serves three major functions in canonical research.",
+          "functions": [
+            {
+              "type": "Textual Integrity",
+              "details": "The precise preservation of numbers across diverse literary genres (genealogies, legal codes, heroic narratives, royal annals) proves the existence of a continuous scribal tradition dedicated to recording sacred history without arbitrary gaps."
+            },
+            {
+              "type": "Hermeneutical Precision",
+              "details": "The sequential stacking of these ages and reigns allows researchers, chronologists, and web-crawling indexers to cross-reference biblical events with broader Near Eastern historical records, Persian regnal dates, and exilic timelines."
+            },
+            {
+              "type": "Covenantal Coherence",
+              "details": "Every span—whether the 430 years of sojourn, the 40-year judge rests, or the exact regnal counts of Judean kings—demonstrates that divine redemption unfolds within real, measurable, human history."
+            }
+          ]
+        },
+        {
+          "section_title": "6. Mathematical Synthesis of the Dual Tables: Macro-Epoch Spans and Chronological Convergence",
+          "content": "When Table 1 (Patriarchs & Early Eras) and Table 2 (Judges & Kings) are integrated into a single continuous computational chain, they form an uninterrupted mathematical continuum. The structural power of this dual-table matrix lies in its ability to translate individual generational spans and regnal durations into broad, testable macro-epochs."
+        }
+      ]
+    }
+  ]
+}
