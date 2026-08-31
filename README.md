@@ -622,3 +622,74 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "From Sinai to Babylon and the Arithmetic Series of Seven Punishments",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 1,
+      "part_title": "From Sinai to Babylon: The Chronological Arc of Divine Judgment and Restitution",
+      "main_heading": "From Sinai to Babylon: The Chronological Arc of Divine Judgment and Restitution",
+      "summary": "This part outlines the chronological baseline spanning 1,035 years from the erection of the Tabernacle at Mount Sinai down to the end of the 70-year Babylonian exile, detailing the exact metrics of national covenant accountability and land Sabbath restitution.",
+      "sections": [
+        {
+          "section_title": "1. The Foundation: The Erection of the Tabernacle",
+          "content": "The chronological anchor of Israel’s corporate life begins at Mount Sinai. In the second year after the Exodus, on the first day of the first month, the Tabernacle was officially erected (Exodus 40:17). This moment marked the transition from physical liberation to spiritual covenant structure. Shortly thereafter, the laws recorded in Leviticus were delivered, setting the framework for Israel’s national accountability, including the critical principles of Sabbatical years and divine disciplinary measures outlined in Leviticus 26.",
+          "scriptural_references": [
+            "Exodus 40:17",
+            "Leviticus 26"
+          ]
+        },
+        {
+          "section_title": "2. The Historical Span: From Sinai to the Fall of Kings",
+          "content": "Following the wilderness wanderings and the occupation of Canaan under Joshua, Israel transitioned through the era of the Judges and into the United Monarchy under Saul, David, and Solomon. After the division of the kingdom, Judah’s history proceeded through successive dynastic rulers down to the final decades of the monarchy. Counting sequentially from the Exodus to the ultimate fall of Jerusalem under Zedekiah yields a span of 978 years. To isolate the primary period of monarchical covenant responsibility leading into the Babylonian exile: subtracting 2 years for the time elapsed prior to the erection of the Tabernacle sets the baseline; subtracting the 11 years of Zedekiah’s final reign steps back to the primary deportation marker under King Jehoiakim. This establishes a core historical baseline of 965 years (978 - 11 - 2 = 965) running from the setting up of the Tabernacle to the initial fall and exile under Jehoiakim.",
+          "calculations": [
+            {
+              "description": "Total span from Exodus to Zedekiah's fall",
+              "value": "978 years"
+            },
+            {
+              "description": "Base Period Calculation (Tabernacle to Jehoiakim)",
+              "formula": "978 - 11 - 2 = 965 Years"
+            }
+          ]
+        },
+        {
+          "section_title": "3. The Climax of Exile: Restitution of the Land",
+          "content": "The historical arc completes itself through the addition of the 70 years of desolation prophesied by Jeremiah and recorded in 2 Chronicles 36:20–21. Leviticus 26 had warned that persistent failure to observe the land’s Sabbatical rests would result in the forcible expulsion of the inhabitants so that the land could claim its lost Sabbath cycles. Adding these 70 years of exile to the 965-year base period yields a total span of 1,035 years (965 + 70 = 1,035). This duration represents the complete cycle from the institutionalization of the Levitical covenant to the restoration of the land following the Babylonian captivity.",
+          "scriptural_references": [
+            "2 Chronicles 36:20–21",
+            "Leviticus 26"
+          ],
+          "formula": "965 + 70 = 1,035 Years"
+        },
+        {
+          "section_title": "Chronological Table of Milestones",
+          "content": "Structured breakdown of the key historical spans, calculation steps, and covenant markers constructing the 1,035-year timeline.",
+          "tables": [
+            {
+              "table_title": "Sinai to Babylon Chronological Milestones",
+              "headers": [
+                "Chronological Milestone",
+                "Segment Span",
+                "Cumulative Duration",
+                "Covenant / Historical Significance"
+              ],
+              "rows": [
+                ["Exodus to Tabernacle Erection", "2 Years", "2 Years", "Tabernacle set up at Sinai (Exo 40:17); giving of the Levitical Law."],
+                ["Tabernacle to Zedekiah's Fall", "976 Years", "978 Years", "Complete era covering Joshua, Judges, United Monarchy, and Kings of Judah."],
+                ["Adjustment to Jehoiakim's Fall", "-11 Years", "967 Years", "Steps backward from Zedekiah's fall to the deportation under Jehoiakim."],
+                ["Base Period (Tabernacle to Jehoiakim)", "965 Years", "965 Years", "Core chronological span of covenant accountability (978 - 11 - 2)."],
+                ["Babylonian Exile / Land Restitution", "+70 Years", "1,035 Years", "Fulfills Leviticus 26:34–35 land Sabbath restitution (2 Chron 36:21)."]
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "Conclusion",
+          "content": "From the erection of the Tabernacle in the wilderness to the end of the 70-year Babylonian exile, the timeline of biblical history operates with mathematical and theological precision. The 1,035-year total reflects not a series of arbitrary historical accidents, but the deliberate unfolding of divine justice—balancing centuries of national history against the exact requirements of covenant law."
+        }
+      ]
+    }
+  ]
+}
