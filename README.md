@@ -267,3 +267,98 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "title": "patriarchal chronologies and the historical lineage of the Israelites",
+  "repository": "patriarchal chronologies",
+  "parts": [
+    {
+      "part": 5,
+      "part_title": "Mathematical Synthesis: Macro-Epoch Spans and Chronological Convergence",
+      "main_heading": "The Chronological Matrix of Israelite History: Tabulating the Patriarchal Lifespans, Sabbatical Anchors, Judges, and Monarchical Regnal Years",
+      "summary": "This part completes the mathematical synthesis by calculating the macro-epoch spans across three major divisions: the Primeval-to-Exodus Macro-Epoch, the Era of Conquest and Judgeship, and the Monarchical Regnal Ledger.",
+      "sections": [
+        {
+          "section_title": "A. The Primeval-to-Exodus Macro-Epoch (Table 1 Metrics)",
+          "content": "By totaling the foundational generative spans from Adam to the Exodus baseline, the matrix establishes the precise temporal distance spanning primeval history to the birth of the covenant nation.",
+          "diagrams": [
+            {
+              "name": "PRIMEVAL TO EXODUS CHAIN",
+              "structure": "[ Primeval Chain ] (Gen 5: 1,656y) -> [ Postdiluvian Chain ] (Gen 11: 292y) -> [ Patriarchal Span ] (Gen 21, 25, 47: 290y) -> [ Liberation Metric ] (Exod 12: 430y)"
+            }
+          ],
+          "breakdown": [
+            {
+              "sequence": "Antediluvian Sequence (Adam to the Flood)",
+              "duration": "1,656 years",
+              "citation": "Genesis 7:11",
+              "calculation": "130 + 105 + 90 + 70 + 65 + 162 + 65 + 187 + 182 + 600 = 1,656 years"
+            },
+            {
+              "sequence": "Postdiluvian Sequence (Arpachshad to Terah)",
+              "duration": "292 years",
+              "details": "Generational spans from Shem's fatherhood post-Flood down to Terah."
+            },
+            {
+              "sequence": "Patriarchal Entrance Span",
+              "duration": "290 years",
+              "calculation": "Abraham at Isaac's birth (100y) + Isaac at Jacob's birth (60y) + Jacob at descent (130y) = 290 years"
+            },
+            {
+              "sequence": "Sojourn & Slavery Metric",
+              "duration": "430 years",
+              "citation": "Exodus 12:40–41"
+            }
+          ],
+          "macro_formula": "Primeval-to-Exodus Macro-Span = 1,656 + 292 + 290 + 430 = 2,668 Years"
+        },
+        {
+          "section_title": "B. The Era of Conquest and Judgeship (Table 1 Terminus to Table 2 Transition)",
+          "content": "The transition from the wilderness generation to the monarchical era forms the second structural arch of the matrix. Combining the leadership of Moses (40y) and Joshua (40y) from Table 1 with the sequential judge cycles from Table 2 provides the structural baseline for pre-monarchical Israel.",
+          "tables": [
+            {
+              "table_title": "Pre-Monarchical Settled Epoch Metrics",
+              "headers": [
+                "Epoch Segment",
+                "Sub-Total Span",
+                "Scripture Citation",
+                "Structural Function"
+              ],
+              "rows": [
+                ["Wilderness & Conquest", "80 Years", "Deut 34:7; Josh 24:29", "Transition from nomadic state to tribal allotment"],
+                ["Foreign Oppressions", "111 Years", "Judg 3:8, 3:14, 4:3, 13:1", "Cumulative periods of covenant discipline (8 + 18 + 20 + 25 + 40)"],
+                ["Judge Rest Eras", "296 Years", "Judg 3:11, 3:30, 10:2, etc.", "Cumulative Sabbath rests brought by deliverers"],
+                ["Priestly / Prophetic Transition", "80 Years", "1 Sam 4:18, 7:15", "Eli (40y) and Samuel (40y) transition to monarchy"]
+              ]
+            }
+          ],
+          "macro_formula": "Total Pre-Monarchical Settled Epoch = 80 + 111 + 296 + 80 = 567 Years"
+        },
+        {
+          "section_title": "C. The Monarchical Regnal Ledger (Table 2 Metrics)",
+          "content": "The second table concludes with the exact summation of regnal years governing the United and Divided Monarchies. By adding the United Monarchy baseline to the individual reigns of the Judean kings, the matrix calculates the total duration of the royal house of David.",
+          "diagrams": [
+            {
+              "name": "THE MONARCHICAL DURATION LEDGER",
+              "structure": "United Monarchy (120y) [Saul 40 | David 40 | Sol 40] | Divided Monarchy (101y) [Rehoboam (17) to Athaliah (6)] | Late (281.5y) [Joash to Zed.]"
+            }
+          ],
+          "breakdown": [
+            {
+              "phase": "United Monarchy (Saul, David, Solomon)",
+              "formula": "40 + 40 + 40 = 120 Years"
+            },
+            {
+              "phase": "Early Judean Kings (Rehoboam to Athaliah)",
+              "formula": "17 + 3 + 41 + 25 + 8 + 1 + 6 = 101 Years"
+            },
+            {
+              "phase": "Late Judean Kings (Joash to Zedekiah)",
+              "formula": "40 + 29 + 52 + 16 + 16 + 29 + 55 + 2 + 31 + 11.5 = 281.5 Years"
+            }
+          ],
+          "macro_formula": "Total Monarchical Span = 120 + 101 + 281.5 = 502.5 Years"
+        }
+      ]
+    }
+  ]
+}
