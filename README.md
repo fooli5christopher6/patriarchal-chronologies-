@@ -4850,3 +4850,116 @@ patriarchal chronologies and the historical lineage of the Israelites
     ]
   }
 }
+{
+  "document_info": {
+    "title": "Theological Commentary: The Mechanism of Corporate (Universal) Sin",
+    "theme": "Universal Sin Decay Framework & Levitical Sanctions",
+    "timestamp": "2026-09-10T00:00:00Z",
+    "version": "1.0",
+    "part": 7
+  },
+  "commentary": {
+    "sections": [
+      {
+        "section_id": 27,
+        "heading": "The Macro-Synthesis: The 936.39-Year Period as the Ultimate Exhaustion of the Law",
+        "overview": "The culmination of these micro-decay cycles flows into the macro-equation that spans the monarchical era down to the Fall of Jerusalem: Macro Duration = 39 * ((7^2)/10)^2 = 39 * (49/10)^2 = 39 * (4.9)^2 = 39 * 24.01 = 936.39 years.",
+        "subsections": [
+          {
+            "sub_id": "27.1",
+            "title": "The Squaring of the Sevenfold Sanction (7^2 = 49)",
+            "details": "The squaring of 7 to 49 invokes the principle of the Jubilee (7 x 7 = 49 years). In the Mosaic Law, the 50th year following a 49-year cycle was the Jubilee—a time of release, liberty, and return to inheritance (Leviticus 25:8–10). However, when the 49-year legal cycle is inverted through persistent rebellion, it becomes a multi-century countdown of spiritual debt."
+          },
+          {
+            "sub_id": "27.2",
+            "title": "The Base Scaling Factor ((4.9)^2 = 24.01)",
+            "details": "By scaling 49/10 to 4.9 and squaring it to 24.01, the single 39-year generational base is multiplied precisely 24.01 times. This expands the judicial trial from a local generational issue into a 936.39-year national epic."
+          },
+          {
+            "sub_id": "27.3",
+            "title": "The Exact Termination at 526.823 BC",
+            "details": "Subtracting 936.39 years from the post-oppression anchor of 1463.213 BC yields exactly 526.823 BC—the Fall of Jerusalem, the destruction of Solomon's Temple, and the complete exile of the Judahite nation to Babylon."
+          }
+        ],
+        "conclusion_remark": "The arithmetic proves that Jerusalem did not fall due to the military superiority of Nebuchadnezzar, but because the 936.39-year covenantal timer had reached zero. Every year of unpurged idolatry from Jeroboam to Manasseh was calculated into this formula, rendering the collapse of the city legally inevitable under Leviticus 26:31–33."
+      },
+      {
+        "section_id": 28,
+        "heading": "The Empirical Anchors: Historical Verification of the Decay Ratios",
+        "overview": "The validity of the arithmetic decay formula relies not only on abstract numeric logic, but on its explicit alignment with historical milestones recorded in the biblical text. The mathematical compression of punishment corresponds to physical transitions in Israel’s political and spiritual governance.",
+        "ascii_diagram": "1564 BC         1523 BC              1495.7 BC            1476.59 BC           1463.213 BC                     526.823 BC\n  │────────────────│────────────────────│────────────────────│────────────────────│───────────────────────────────│\n  │   Exodus Base  │    P₁ = 39 yrs     │   P₂ = 27.3 yrs    │   P₃ = 19.11 yrs   │   P₄ = 13.377 yrs             │\n  │   (Tabernacle) │  (Wilderness End)  │   (Achan at Ai)    │  (Judges Idolatry) │  (Foreign Oppressions)        │\n  │                │                    │                    │                    │                               │\n  └────────────────┴────────────────────┴────────────────────┴────────────────────┴───────────────────────────────┘\n                                                                                  └─── Macro Span: 936.39 yrs ────┘\n                                                                                       (Fall of Jerusalem)",
+        "historical_milestones": [
+          {
+            "stage_id": 1,
+            "title": "The Wilderness Baseline (P_1 = 39 Years)",
+            "arithmetic_execution": "1562 BC - 39 = 1523 BC",
+            "historical_alignment": "Deuteronomy 2:14 states that thirty-eight to thirty-nine years elapsed from Kadesh-barnea until the adult generation of warrior age perished. The base 39-year cycle represents the unadjusted, linear speed of divine judgment against an assembly outside the land of promise."
+          },
+          {
+            "stage_id": 2,
+            "title": "The First Land Compression (P_2 = 27.3 Years)",
+            "arithmetic_execution": "1523 BC - 27.3 = 1495.7 BC",
+            "historical_alignment": "Joshua 7 records the disruption of the conquest at Ai due to Achan's theft of the devoted items at Jericho. The introduction of the land covenant immediately scales the probationary window down to 70% (27.3 years), demonstrating that proximity to the Holy Place increases covenantal liability."
+          },
+          {
+            "stage_id": 3,
+            "title": "The Second Land Compression (P_3 = 19.11 Years)",
+            "arithmetic_execution": "1495.7 BC - 19.11 = 1476.59 BC",
+            "historical_alignment": "Judges 2:11–13 marks the death of Joshua's generation and the immediate rise of Baal and Ashtaroth worship. The decay ratio squares to 0.49, compressing the window to 19.11 years. Spiritual apathy matures into active apostasy in under two decades."
+          },
+          {
+            "stage_id": 4,
+            "title": "The Third Land Compression (P_4 = 13.377 Years)",
+            "arithmetic_execution": "1476.59 BC - 13.377 = 1463.213 BC",
+            "historical_alignment": "Judges 3:1–8 details the military subjugation of the tribes under Mesopotamian and regional powers. The decay ratio cubes to 0.343, leaving a narrow 13.377-year window between periods of spiritual backsliding and physical warfare."
+          }
+        ]
+      },
+      {
+        "section_id": 29,
+        "heading": "The Convergence of Prophetic Vectors at 33 AD",
+        "overview": "When the 936.39-year macro-span expires at 526.823 BC, the chronological structure shifts from the compounding decay of judgment to the fixed linear countdown of redemption outlined in Daniel 9.",
+        "ascii_diagram": "526.823 BC                     457 BC                   450 BC           401 BC                        33 AD\n    │────────────────────────────│────────────────────────│────────────────│─────────────────────────────│\n    │   Exile & Transition Era   │  Decree / Mandate Base │  7-Yr Marker   │  49-Yr Restoration          │\n    │   (Post-Jerusalem Fall)    │  (Ezra 7 / Dan 9:25)   │  (Dan 9:27)    │  (Ezra 8:1–31)              │\n    │                            │                        │                │                             │\n    └────────────────────────────┴────────────────────────┴────────────────┴─────────────────────────────┘\n                                 └───────────────── 483 Years (69 Weeks) ───────────────────────────────┘\n                                                   (Crucifixion of Messiah)",
+        "vectors": [
+          {
+            "vector_id": 1,
+            "title": "The Neutralization of the 936.39-Year Debt",
+            "details": "The cumulative guilt of 936.39 years could not be eradicated by animal sacrifices or civic reforms. It required a federal Representative who could fulfill the righteous requirements of the Mosaic Law while absorbing the total accrued penal debt of the covenant."
+          },
+          {
+            "vector_id": 2,
+            "title": "The Danielic Fixed Chronology (483 Years)",
+            "details": "By locking the restoration to 457 BC (Ezra 7), God replaced the fractional decay multiplier (x0.7) with an unyielding linear count: Prophetic Duration = 69 weeks * 7 = 483 solar years."
+          },
+          {
+            "vector_id": 3,
+            "title": "The Absolute Climax at 33 AD",
+            "details": "457 BC + 483 years = 33 AD (accounting for no year zero). At the cross (Luke 23:33; Daniel 9:24–26), Messiah was 'cut off,' bringing an end to the judicial countdown."
+          }
+        ]
+      },
+      {
+        "section_id": 30,
+        "heading": "Theological Summary of the Arithmetic Model",
+        "overview": "The integration of the 11-row timeline with the decay formulas reveals three core truths:",
+        "core_truths": [
+          {
+            "truth_id": 1,
+            "title": "Sin is Mathematically Compounding",
+            "details": "Corporate guilt does not remain static; under the terms of Leviticus 26, it systematically compresses the time allowed for repentance through fractional decay ratios (7/10)."
+          },
+          {
+            "truth_id": 2,
+            "title": "Scripture Operates with Exact Precision",
+            "details": "The historical events of the Old Testament—from the fall of Ai and the rise of the Judges to the death of the disobedient prophet (1 Kings 13:24) and the Fall of Jerusalem—are exact mathematical milestones in a sovereign divine schedule."
+          },
+          {
+            "truth_id": 3,
+            "title": "The Atonement is a Legally Complete Act",
+            "details": "By bearing the full mathematical sum of the 936.39-year covenantal penalty at 33 AD, the Messiah legally terminated the decay cycle, replacing the compounding curse with an everlasting covenant of grace."
+          }
+        ]
+      }
+    ]
+  }
+}
