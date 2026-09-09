@@ -4089,3 +4089,142 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+{
+  "document_info": {
+    "title": "Theological Commentary: The Mechanism of Corporate (Universal) Sin",
+    "theme": "Universal Sin Decay Framework & Levitical Sanctions",
+    "timestamp": "2026-09-10T00:00:00Z",
+    "version": "1.0"
+  },
+  "commentary": {
+    "introduction": {
+      "heading": "The Mechanism of Corporate (Universal) Sin",
+      "content": "In covenantal theology, corporate guilt operates on the principle that a single representative act—or a collective rebellion by leaders—can bind the entire community under a single judicial sentence. Under Leviticus 26, when the legal head or a representative member transgresses, the spiritual and civil liability is imputed to the whole body."
+    },
+    "sections": [
+      {
+        "section_id": 1,
+        "heading": "The Wilderness Generation: The Initial Outbreak of Universal Judgment",
+        "overview": "The first universal punishment against the post-Exodus congregation did not wait for the settlement in Canaan; it was executed in the wilderness as a direct result of collective rebellion and representative failure.",
+        "subsections": [
+          {
+            "sub_id": "1.1",
+            "title": "The Rebellion at Kadesh-barnea (The Spies)",
+            "details": "When the ten unfaithful spies returned with an evil report in 1562 BC, their lack of faith infected the entire congregation (Numbers 13:31–33). Though only ten men led the slander, the whole assembly wept and sought to return to Egypt (Numbers 14:1–4). God judged the entire corporate body: the ten spies died immediately by a plague before the Lord (Numbers 14:37), and the entire adult generation (ages 20 and older) was sentenced to wander for 40 years until they perished in the wilderness (Numbers 14:28–35)."
+          },
+          {
+            "sub_id": "1.2",
+            "title": "The Rebellion of Korah, Dathan, and Abiram",
+            "details": "Korah challenged the divine hierarchy and priesthood (Numbers 16:1–3). Because leadership revolted, the threat of immediate destruction hung over the whole congregation. God commanded the assembly to separate themselves from the tents of these men, demonstrating that remaining association with corporate sin yields shared destruction (Numbers 16:21–26). The earth opened to swallow the ringleaders, yet the next day, when the congregation murmured against Moses, a plague broke out that consumed 14,700 people before Aaron made atonement (Numbers 16:41–50)."
+          },
+          {
+            "sub_id": "1.3",
+            "title": "The Waters of Meribah",
+            "details": "At Kadesh, when the people strived with God over water, Moses and Aaron failed to sanctify the Lord before the eyes of Israel by striking the rock instead of speaking to it (Numbers 20:7–12). Because their leaders acted in rebellion, the consequence was universal to leadership: neither Moses nor Aaron was permitted to lead the congregation into the Promised Land."
+          }
+        ]
+      },
+      {
+        "section_id": 2,
+        "heading": "Achan’s Sin: Individual Transgression as Corporate Guilt",
+        "overview": "The account in Joshua 7 is the clearest biblical demonstration of an individual’s secret sin being charged to an entire nation.",
+        "subsections": [
+          {
+            "sub_id": "2.1",
+            "title": "The Imputation of Guilt",
+            "details": "Joshua 7:1 explicitly states: 'But the children of Israel committed a trespass in the accursed thing: for Achan... took of the accursed thing: and the anger of the Lord was kindled against the children of Israel.' One man stole from Jericho, yet God declared that all Israel had sinned (Joshua 7:11)."
+          },
+          {
+            "sub_id": "2.2",
+            "title": "The Universal Penalty",
+            "details": "Because of Achan's single secret act, the divine presence and protection were withdrawn from the military. Thirty-six Israelite soldiers were killed at the battle of Ai, and the army fled in defeat (Joshua 7:4–5)."
+          },
+          {
+            "sub_id": "2.3",
+            "title": "The Covenantal Principle",
+            "details": "God informed Joshua that Israel could not stand before their enemies until the accursed thing was purged from their midst (Joshua 7:12–13). Corporate holiness required total purging; once Achan and his household were judged at the Valley of Achor, the divine covenant favor was restored."
+          }
+        ]
+      },
+      {
+        "section_id": 3,
+        "heading": "Jeroboam’s Sin: State-Sanctioned Idolatry and the Unfaithful Prophet",
+        "overview": "During the reign of Jeroboam I, corporate sin reached an institutionalized state structure. Jeroboam established golden calves at Dan and Bethel to prevent the northern tribes from traveling to Jerusalem (1 Kings 12:26–33), introducing a national system of idolatry that Scripture repeatedly defines as 'the sin of Jeroboam, who made Israel to sin' (1 Kings 14:16).",
+        "subsections": [
+          {
+            "sub_id": "3.1",
+            "title": "The Prophetic Confrontation at Bethel",
+            "details": "A man of God came out of Judah to Bethel to prophesy against Jeroboam's altar (1 Kings 13:1–3). This confrontation marked God's formal judicial warning against the state-sponsored apostasy of the Northern Kingdom (Samaria)."
+          },
+          {
+            "sub_id": "3.2",
+            "title": "The Disobedient Prophet and the Lion",
+            "details": "After executing his commission, the prophet was deceived by an older prophet of Bethel and ate bread in that place, violating God's direct command: 'Eat no bread, nor drink water, nor turn again by the same way that thou camest' (1 Kings 13:9, 18–19)."
+          },
+          {
+            "sub_id": "3.3",
+            "title": "The Judicial Meaning of 1 Kings 13:24",
+            "details": "As he departed, a lion met him on the road and killed him (1 Kings 13:24). This death served as a severe visual sermon to Jeroboam and all Israel: if God would not spare His own true prophet for a single act of disobedience regarding His word, He would certainly not spare Jeroboam or the nation for systematically abandoning the covenant. The judgment on the prophet foreshadowed the ultimate destruction of Samaria and the captivity of Israel for walking in Jeroboam's universal sin."
+          }
+        ]
+      }
+    ],
+    "chronological_table": [
+      {
+        "event_phase": "Exodus",
+        "year_arithmetic": "1564 BC (Base Year)",
+        "scriptural_reference": "Exodus 12:40–41"
+      },
+      {
+        "event_phase": "Tabernacle erection",
+        "year_arithmetic": "1562 BC (1564 - 2 years)",
+        "scriptural_reference": "Exodus 40:17; Leviticus 26:1–2"
+      },
+      {
+        "event_phase": "Joshua's 1st Year of Reign",
+        "year_arithmetic": "1523 BC (1562 - 39)",
+        "scriptural_reference": "Deuteronomy 2:14; Joshua 1:1–2"
+      },
+      {
+        "event_phase": "Joshua's 28th Year (Achan's Sin)",
+        "year_arithmetic": "1495.7 BC (1562 - 39 - 27.3)",
+        "scriptural_reference": "Joshua 7:1, 20–21"
+      },
+      {
+        "event_phase": "Worship of Other Gods",
+        "year_arithmetic": "1476.59 BC (1562 - 39 - 27.3 - 19.11)",
+        "scriptural_reference": "Judges 2:11–13"
+      },
+      {
+        "event_phase": "wars for Punishment",
+        "year_arithmetic": "1463.213 BC (1562 - 39 - 27.3 - 19.11 - 13.377)",
+        "scriptural_reference": "Leviticus 26:21, 28; Judges 3:1- 8"
+      },
+      {
+        "event_phase": "Fall of Jerusalem",
+        "year_arithmetic": "526.823 BC (1463.213 - 936.39)",
+        "scriptural_reference": "Leviticus 26:31–33; 2 Kings 25:8–10; 1 Kings 13:24; Leviticus 26:22"
+      },
+      {
+        "event_phase": "Decree / Mandate",
+        "year_arithmetic": "457 BC (Base 70yrs Chronology Marker)",
+        "scriptural_reference": "Ezra 7:11–26; Daniel 9:25"
+      },
+      {
+        "event_phase": "King's Agreement with Many",
+        "year_arithmetic": "450 BC (457 - 7)",
+        "scriptural_reference": "Daniel 9:27"
+      },
+      {
+        "event_phase": "Return of Ezra",
+        "year_arithmetic": "401 BC (Timeline Milestone) 450-49",
+        "scriptural_reference": "Ezra 8:1–31"
+      },
+      {
+        "event_phase": "Crucifixion of Messiah",
+        "year_arithmetic": "33 AD (483 years / 69 weeks)",
+        "scriptural_reference": "Daniel 9:24–26; Luke 23:33"
+      }
+    ]
+  }
+}
