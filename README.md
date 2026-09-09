@@ -4736,3 +4736,117 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   }
 }
+{
+  "document_info": {
+    "title": "Theological Commentary: The Mechanism of Corporate (Universal) Sin",
+    "theme": "Universal Sin Decay Framework & Levitical Sanctions",
+    "timestamp": "2026-09-10T00:00:00Z",
+    "version": "1.0",
+    "part": 6
+  },
+  "commentary": {
+    "sections": [
+      {
+        "section_id": 23,
+        "heading": "The Inverse Mathematical Function: Messiah’s Redemption of the Decay Curve",
+        "overview": "The structural beauty of this chronological framework is that the mathematical laws governing the acceleration of punishment (1564 BC -> 526.823 BC) find their exact inverse operational match in the linear restoration sequence (457 BC -> 33 AD). Where corporate sin introduced a compounding decay factor (x0.7) that progressively shrank the grace period and accelerated divine judgment, the Messianic intervention completely halts this geometric decay.",
+        "ascii_diagram": "SIN & DECAY:      39.00 yrs ──(x0.7)──> 27.30 yrs ──(x0.7)──> 19.11 yrs ──(x0.7)──> 13.377 yrs  [Accelerating Judgment]\nRESTORATION:      457 BC ───────────────(Linear Lock: 69 Weeks / 483 Years)──────────────> 33 AD   [Fixed Redemption]",
+        "subsections": [
+          {
+            "sub_id": "23.1",
+            "title": "Breakage of the Geometric Spiral",
+            "details": "Under the original Levitical decay curve (P_1 -> P_4), human history was trapped in a self-reinforcing downward spiral. Each successive generation, inheriting the unpurged corporate guilt of its predecessors, faced an ever-narrowing window of probation before judgment struck."
+          },
+          {
+            "sub_id": "23.2",
+            "title": "The Sovereign Insertion of the 457 BC Marker",
+            "details": "By anchoring the decree to restore and rebuild Jerusalem at 457 BC (Ezra 7:11–26; Daniel 9:25), God suspended the fractional decay mechanics. The chronological system transitioned from compounding fractional collapse to an unalterable, fixed linear count: 483 prophetic years (69 weeks * 7 years/week)."
+          },
+          {
+            "sub_id": "23.3",
+            "title": "The Absolute Neutralization of 936.39 Years of Guilt",
+            "details": "At 33 AD, when Messiah was cut off (Daniel 9:26; Luke 23:33), the cross acted as a divine circuit breaker. The infinite value of Messiah's substitutionary sacrifice legally absorbed both the localized decay cycles (39, 27.3, 19.11, 13.377 years) and the complete macro-accumulated penalty of the 936.39-year Leviticus 26 judgment."
+          }
+        ]
+      },
+      {
+        "section_id": 24,
+        "heading": "The Theological Axioms of the Arithmetic Punishment Model",
+        "overview": "Four ultimate theological laws govern the entire 11-row timeline from the Exodus to the Crucifixion:",
+        "axioms": [
+          {
+            "axiom_id": 1,
+            "title": "Justice Accelerates in Proximity to Light",
+            "details": "The drop from 39 years (wilderness) to 27.3 years (Promised Land) proves that increased spiritual privilege brings stricter covenantal liability. Sin inside the land (Achan) triggers faster judicial intervention than sin outside the land."
+          },
+          {
+            "axiom_id": 2,
+            "title": "Systemic Idolatry Compounds Exponentially",
+            "details": "The squaring and cubing of the 7/10 ratio (0.7^2 = 0.49 and 0.7^3 = 0.343) demonstrate that when idolatry becomes institutionalized (Judges 2:11–13; 1 Kings 12:26–33), the temporal buffer between warning and execution collapses at an exponential rate."
+          },
+          {
+            "axiom_id": 3,
+            "title": "Physical Events Validate Spiritual Mathematics",
+            "details": "The death of the disobedient prophet by a lion in 1 Kings 13:24 serves as historical, empirical proof that the 936.39-year decay formula (39 * ((7^2)/10)^2) was actively executing its legal terms in real physical space and time."
+          },
+          {
+            "axiom_id": 4,
+            "title": "Prophetic Grace Overrules Natural Decay",
+            "details": "Human agency could never mathematically escape the compounding weight of 936.39 years of corporate guilt. Only the direct, linear insertion of Daniel's 70-weeks prophecy culminating in the 33 AD atonement could legally satisfy the formula, neutralize the countdown, and establish everlasting righteousness."
+          }
+        ]
+      },
+      {
+        "section_id": 25,
+        "heading": "The Ratio 7/10 as the Covenantal Handshake of Mercy and Justice",
+        "overview": "A deeper analysis of the fractional multiplier 7/10 (0.7) reveals how divine governance maintains a precise equilibrium between covenantal holiness and long-suffering grace throughout the countdown sequence.",
+        "subsections": [
+          {
+            "sub_id": "25.1",
+            "title": "The Sevenfold Covenant Multiplier (7)",
+            "details": "In Leviticus 26:18, 21, 24, and 28, God warns Israel four distinct times: 'I will punish you seven times more for your sins.' The number 7 is the divine signature of covenantal completeness and judicial fullness. In the numerator of the decay formula, 7 represents the unbending legal requirement of God's holiness demanding a complete sentence for covenant breaking."
+          },
+          {
+            "sub_id": "25.2",
+            "title": "The Base-Ten Completeness of Mercy (10)",
+            "details": "In biblical numerology and Mosaic law, 10 represents the full measure of human responsibility under the Law (the Ten Commandments) as well as the completeness of a divine testing cycle (e.g., the ten plagues of Egypt, the ten testings in the wilderness in Numbers 14:22). In the denominator, 10 acts as a divine brake or buffer, scaling down the full weight of the 7-fold judgment into manageable fractional intervals."
+          }
+        ],
+        "formula_expression": "Decay Ratio = Covenantal Holiness (7) / Fullness of Human Probation (10) = 0.7",
+        "theological_synthesis": "Without the base-10 denominator, the sevenfold multiplier of Leviticus 26 would consume the nation in a single generation. By placing 7 over 10, divine wisdom constructs a compounding decay curve that systematically chastises corporate rebellion while preserving a remnant across centuries."
+      },
+      {
+        "section_id": 26,
+        "heading": "The Exponential Collapse of the Probationary Window",
+        "overview": "When the decay ratio is applied sequentially across the timeline, it demonstrates how human probation shrinks as unrepentant sin accumulates. The progression of intervals reveals an exponential tightening of the temporal vice:",
+        "progression_points": [
+          {
+            "stage": "Initial Probation",
+            "formula_value": "P_1 = 39.00 years",
+            "percentage_remaining": "100%",
+            "details": "The nation receives a full lifetime window (1564 BC -> 1523 BC) to establish obedience under Moses and Joshua."
+          },
+          {
+            "stage": "First Reduction",
+            "formula_value": "P_2 = 27.30 years",
+            "percentage_remaining": "70%",
+            "details": "The secret theft of Achan (1495.7 BC) compresses probation by 30%, proving that covenant privilege inside the Promised Land shortens the delay between transgression and exposure."
+          },
+          {
+            "stage": "Second Reduction",
+            "formula_value": "P_3 = 19.11 years",
+            "percentage_remaining": "49% (0.7^2)",
+            "details": "Widespread apostasy in the Era of the Judges (1476.59 BC) cuts the window of grace by more than half, showing that national idolatry rapidly depletes divine tolerance."
+          },
+          {
+            "stage": "Third Reduction",
+            "formula_value": "P_4 = 13.377 years",
+            "percentage_remaining": "34.3% (0.7^3)",
+            "details": "When spiritual apostasy turns into societal decay and foreign oppressions (1463.213 BC), the grace window collapses to approximately one-third of its original length."
+          }
+        ],
+        "conclusion_remark": "This mathematical compression explains why the Era of the Judges was characterized by increasingly rapid cycles of sin, oppression, crying out, and deliverance. The arithmetic structure shows that the nation was running out of temporal probation before hitting the macro-judgment threshold."
+      }
+    ]
+  }
+}
