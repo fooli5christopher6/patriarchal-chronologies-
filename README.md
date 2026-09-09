@@ -4593,3 +4593,146 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   }
 }
+{
+  "document_info": {
+    "title": "Theological Commentary: The Mechanism of Corporate (Universal) Sin",
+    "theme": "Universal Sin Decay Framework & Levitical Sanctions",
+    "timestamp": "2026-09-10T00:00:00Z",
+    "version": "1.0",
+    "part": 5
+  },
+  "commentary": {
+    "sections": [
+      {
+        "section_id": 19,
+        "heading": "Terminal Chronological Resolution: From Exile to Messiah",
+        "overview": "Once the 936.39-year decay interval exhausts itself at the Fall of Jerusalem, the countdown shifts from compounding fractional decay back to the linear prophetic restoration sequence:",
+        "sequence_points": [
+          {
+            "point_id": 1,
+            "title": "The 457 BC Base Marker (Decree / Mandate)",
+            "details": "Governed by Ezra 7:11–26 and Daniel 9:25, establishing the 70-weeks chronology."
+          },
+          {
+            "point_id": 2,
+            "title": "The 7-Year Covenant Agreement (450 BC)",
+            "details": "457 BC - 7 = 450 BC (Daniel 9:27)."
+          },
+          {
+            "point_id": 3,
+            "title": "The 49-Year Milestone (401 BC)",
+            "details": "Return of Ezra and final restoration of the biblical text (Ezra 8:1–31)."
+          },
+          {
+            "point_id": 4,
+            "title": "The 483-Year Redemption (33 AD)",
+            "details": "69 weeks * 7 = 483 years, terminating at the Crucifixion of Messiah (Daniel 9:24–26; Luke 23:33)."
+          }
+        ],
+        "resolution_summary": "At 33 AD, the mathematical progression of universal sin and compounding punishment is completely answered: the Messiah absorbs the accrued legal sentence of the 936.39-year Leviticus 26 judgment, legally terminating the federal countdown of punishment."
+      },
+      {
+        "section_id": 20,
+        "heading": "The Structural Geometry of Compounding Judicial Acceleration",
+        "overview": "The mathematical progression governing the punishment countdown illustrates a vital principle of covenantal administration: sin degrades the temporal buffering between divine patience and judicial execution. Under the base Mosaic framework, a full generation (39 years) was granted as an introductory window of grace before the full sentence of the wilderness wanderings was executed (1564 BC -> 1523 BC). However, once the nation entered the Promised Land, every subsequent cycle of unpurged corporate rebellion applied a constant fractional multiplier of 7/10 (0.7), systematically compressing the time allotted for corporate repentance.",
+        "ascii_diagram": "[Base Cycle: 39.00 yrs] ──(x0.7)──> [Cycle 2: 27.30 yrs] ──(x0.7)──> [Cycle 3: 19.11 yrs] ──(x0.7)──> [Cycle 4: 13.377 yrs]\n   (Wilderness Testing)                (Achan's Sin)                   (Judges Idolatry)                (Military Oppression)"
+      },
+      {
+        "section_id": 21,
+        "heading": "The Theological Breakdown of the Four-Stage Decay Sequence",
+        "subsections": [
+          {
+            "sub_id": "21.1",
+            "title": "Stage 1: The Base Generation (39 Years)",
+            "formula": "P_1 = 39",
+            "theological_reality": "Represents the standard generational baseline. God's patience allows a full 39-year lifespan for an entire adult congregation to repent or naturally pass away before entering the inheritance."
+          },
+          {
+            "sub_id": "21.2",
+            "title": "Stage 2: The Land Accountability Compression (27.3 Years)",
+            "formula": "P_2 = 39 * (7/10) = 27.3",
+            "theological_reality": "Living within the holy inheritance (Canaan) carries higher covenantal sensitivity than wandering in the wilderness. The moment Achan committed his secret trespass, the timeline accelerated by 30% (1 - 0.7 = 0.3), reducing the interval to 27.3 years. Secret individual sin under the land covenant demands faster judicial resolution than public wilderness murmuring."
+          },
+          {
+            "sub_id": "21.3",
+            "title": "Stage 3: The Institutionalization of Idolatry (19.11 Years)",
+            "formula": "P_3 = 39 * (7/10)^2 = 19.11",
+            "theological_reality": "When rebellion shifts from an isolated trespass (Achan) to widespread cultural idolatry (Judges 2:11–13), the decay factor squares (0.7^2 = 0.49). The grace period is effectively cut in half from the base cycle, showing that open idolatry rapidly exhausts divine longsuffering."
+          },
+          {
+            "sub_id": "21.4",
+            "title": "Stage 4: The Military and Political Sanctions (13.377 Years)",
+            "formula": "P_4 = 39 * (7/10)^3 = 13.377",
+            "theological_reality": "With the third compounding increase (0.7^3 = 0.343), spiritual decay manifests as physical and geopolitical subjugation under foreign powers (Judges 3:1–8). The window for spiritual recovery shrinks to just over a decade, signaling that national collapse is imminently approaching unless corporate intercession intervenes."
+          }
+        ]
+      },
+      {
+        "section_id": 22,
+        "heading": "The Theological Weight of the 936.39-Year Macro-Formula",
+        "overview": "The transition from the initial four localized decay stages to the total national collapse (526.823 BC) is bound by the master exponential formula:\nMacro Judgment Span = 39 * ((7^2)/10)^2 = 39 * (4.9)^2 = 936.39 years\nThis formula encapsulates two opposing dynamic forces acting simultaneously within divine governance:",
+        "dynamic_forces": [
+          {
+            "force": "The Numerator (7^2 = 49)",
+            "details": "The number 7 squared represents the complete, perfected measure of Levitical covenant sanction (7 x 7 multiplier in Leviticus 26:18, 21, 24, 28). It signifies the full, unmitigated weight of divine justice acting against corporate apostasy."
+          },
+          {
+            "force": "The Denominator (10^2 = 100 or base 10 scaling)",
+            "details": "The base-10 denominator acts as the sovereign boundary of divine mercy, preventing immediate, total annihilation and extending the trial period across nearly a millennium."
+          }
+        ],
+        "judicial_pivot": {
+          "title": "The Role of 1 Kings 13:24 as the Judicial Pivot",
+          "details": "Within this 936.39-year span, the death of the disobedient prophet by the lion during Jeroboam's reign serves as an empirical verification of this mathematical law. The prophet's death proved that: Divine word cannot be compromised by deception or office; the 936.39-year clock was actively counting down against the Northern and Southern Kingdoms; and the 'wild beast' sanction of Leviticus 26:22 was no longer theoretical, but had entered the physical historical record as a solemn guarantee of the coming 526.823 BC Fall of Jerusalem."
+        }
+      }
+    ],
+    "summary_table": {
+      "heading": "Summary of Arithmetic Transformation Across Redemptive History",
+      "rows": [
+        {
+          "phase": "Exodus to Sinai",
+          "mathematical_operation": "Base Anchor",
+          "duration": "1564 BC",
+          "spiritual_judicial_reality": "Foundation of the Covenant"
+        },
+        {
+          "phase": "Wilderness Wandering",
+          "mathematical_operation": "P_1 = 39",
+          "duration": "39 years",
+          "spiritual_judicial_reality": "Standard generational testing period"
+        },
+        {
+          "phase": "Achan's Sin (Ai)",
+          "mathematical_operation": "P_2 = 39(0.7)",
+          "duration": "27.3 years",
+          "spiritual_judicial_reality": "Accelerated accountability under Land Covenant"
+        },
+        {
+          "phase": "Judges' Idolatry",
+          "mathematical_operation": "P_3 = 39(0.7)^2",
+          "duration": "19.11 years",
+          "spiritual_judicial_reality": "Rapid tightening of spiritual grace window"
+        },
+        {
+          "phase": "Foreign Wars",
+          "mathematical_operation": "P_4 = 39(0.7)^3",
+          "duration": "13.377 years",
+          "spiritual_judicial_reality": "Physical/military manifestation of Levitical curses"
+        },
+        {
+          "phase": "Monarchical / Exile Era",
+          "mathematical_operation": "39 * ((7^2)/10)^2",
+          "duration": "936.39 years",
+          "spiritual_judicial_reality": "Full accumulation of national guilt unto Temple destruction"
+        },
+        {
+          "phase": "Messianic Era",
+          "mathematical_operation": "Linear Prophetic Lock",
+          "duration": "483 years (69 weeks)",
+          "spiritual_judicial_reality": "Exhaustion of legal sentence at the Cross (33 AD)"
+        }
+      ]
+    }
+  }
+}
