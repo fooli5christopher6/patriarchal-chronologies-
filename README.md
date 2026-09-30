@@ -5280,3 +5280,237 @@ patriarchal chronologies and the historical lineage of the Israelites
     }
   ]
 }
+[
+  {
+    "part": "Part 7",
+    "heading": "The Prophetic 62 Weeks: Messiah & Transference",
+    "paragraphs": [
+      "In Daniel 9:25–26, the angel Gabriel outlines a timeline where 'after sixty-two weeks, Messiah shall be cut off, but not for Himself; and the people of the prince who is to come shall destroy the city and the sanctuary.' The historical 62 weeks of the First Temple era mirror this prophetic specification across key theological and architectural markers."
+    ],
+    "subsections": [
+      {
+        "heading": "2. The Prophetic 62 Weeks: The Cutting Off of the Messiah",
+        "content": [
+          "In Daniel 9:25–26, the angel Gabriel outlines a timeline where 'after sixty-two weeks, Messiah shall be cut off, but not for Himself; and the people of the prince who is to come shall destroy the city and the sanctuary.'",
+          "The historical 62 weeks of the First Temple era mirror this prophetic specification in three distinct ways:",
+          "1. The Duration (62 × 7 = 434): Just as 434 years carried Judah from the inauguration of the Solomonic Temple monarchy to the destruction of the sanctuary, Daniel’s 62-week block measures the exact duration appointed before the ultimate Sacrifice is offered.",
+          "2. The 'Cutting Off': The historical 434 years ended with the cutting off of the physical Davidic kingship in Zedekiah and the destruction of the stone Temple. Prophetically, this prefigured the cutting off of the Messiah on the cross—where the ultimate Davidic King was executed, taking upon Himself the covenantal curses of the nation.",
+          "3. The Sanctuary Desolation: The physical destruction of Solomon’s Temple at the end of the first 434-year epoch prefigured the spiritual judgment and physical fall of Jerusalem following the rejection of the Messiah in the New Testament era."
+        ]
+      },
+      {
+        "heading": "3. The Temple Transference: Stone Structure to the Living Body",
+        "content": [
+          "The theological key that unites both 62-week epochs is found in Jesus’ confrontation with the religious authorities in Jerusalem:",
+          "'Jesus answered and said to them, \"Destroy this temple, and in three days I will raise it up.\" ... But He was speaking of the temple of His body.' (John 2:19, 21)",
+          "By identifying His physical body as the true Temple, Jesus transferred the typology of the Solomonic sanctuary onto Himself:",
+          "• The First Temple (Built in Stone): Solomon spent seven years building an earthly house (1 Kings 6:38) that endured through a 434-year (62-week) monarchical cycle, only to be destroyed due to human covenant breach.",
+          "• The Greater Temple (Built without Hands): Jesus Christ embodies the fullness of the divine presence (Colossians 2:9). The 62-week prophetic countdown of Daniel points precisely to the climax where this 'Body-Temple' would be destroyed (crucified) by the hands of men.",
+          "• The Three-Day Rebuilding: Where the Solomonic Temple lay in ruins for decades during the Babylonian exile, the Temple of Christ’s body could not be held by death. Destroyed at the end of the prophetic cycle, it was rebuilt in three days through the Resurrection—establishing an eternal, indestructible sanctuary for the Davidic kingdom."
+        ]
+      },
+      {
+        "heading": "4. The Architectural Symmetry of Sacred History",
+        "content": [
+          "| Dimension | The Historical 62 Weeks (970.0 BC – 536.5 BC) | The Prophetic 62 Weeks (Daniel 9 / Gospel Era) |",
+          "|---|---|---|",
+          "| Timeframe | 434 Years (62 × 7) | 434 Years (62 × 7) |",
+          "| Inaugural Event | Solomon’s Reign / Construction of First Temple | Decree / Rebuilding of Jerusalem and Sanctuary |",
+          "| The Focal Temple | Solomon’s Temple of Stone and Cedar | The Body-Temple of Jesus Christ |",
+          "| The 'Cutting Off' | Cessation of Earthly Davidic Kings (Zedekiah) | Crucifixion of the Messiah (Mashiach Cut Off) |",
+          "| Resolution | Physical Destruction / 70-Year Exile | Destruction of Body / Resurrection in 3 Days |"
+        ]
+      },
+      {
+        "heading": "5. Conclusion: The Eternal Sanctuary Established",
+        "content": [
+          "The alignment of the 62 weeks demonstrates the unity of biblical typology. The 434 years that governed the reign of the Judean kings from Solomon to the Babylonian exile were not an arbitrary span of time, but a prophetically calculated blueprint.",
+          "The fall of Solomon's stone temple at the conclusion of the historical 62 weeks served as an earthly shadow. Its true fulfillment arrived when the 62 prophetic weeks culminated in the destruction and resurrection of Jesus Christ—the true Davidic King whose body was destroyed on the cross, but raised in three days to serve as the eternal Temple of the New Covenant."
+        ]
+      }
+    ]
+  },
+  {
+    "part": "Part 8",
+    "heading": "Sabbatical Engineering & Structural Transition",
+    "paragraphs": [
+      "To fully appreciate the mirror between the historical 62-week span and its New Testament fulfillment, one must examine the internal sabbatical mechanics and structural transitions governing this 434-year period."
+    ],
+    "subsections": [
+      {
+        "heading": "6. The Sabbatical Engineering of the 434-Year Epoch",
+        "content": [
+          "To fully appreciate the mirror between the historical 62-week span and its New Testament fulfillment, one must examine the internal sabbatical mechanics governing this 434-year period. A block of 62 weeks of years consists of exactly 62 sabbatical cycles (62 × 7 = 434 years). Within Hebrew jurisprudence, every seventh year represented a Sabbatical Year (Shemitah), a period of mandatory release, debt cancellation, and rest for the land.",
+          "• Accumulated Covenant Obligations: Throughout the 434 years from Solomon’s ascension to the collapse under Zedekiah, Judah traversed 62 distinct Shemitah cycles. The repeated failure of the Davidic monarchs to observe these Sabbatical releases transformed the 62 weeks into a cumulative ledger of divine debt.",
+          "• The Payment of the Ledger: The destruction of Solomon’s stone Temple at the end of the 434 years enforced a cosmic debt settlement, removing the people from the land so it could finally rest.",
+          "• The Messianic Payment: In the prophetic mirror, when Christ entered Jerusalem at the close of the 62-week trajectory, He arrived as the ultimate Jubilee and Shemitah fulfiller. Where the earthly kingdom accumulated 434 years of debt that ended in the destruction of the stone sanctuary, Christ took the entire accumulated covenant curse onto Himself. The destruction ('cutting off') of the Temple of His body paid the sabbatical debt in full, canceling the certificate of debt against humanity (Colossians 2:14)."
+        ]
+      },
+      {
+        "heading": "7. The Veil, the Stones, and the Structural Transition",
+        "content": [
+          "The physical event of the crucifixion directly connects the destruction of the Body-Temple to the ultimate fate of the earthly stone Temple, bridging both 62-week timelines:",
+          "1. The Rending of the Veil: At the moment Christ’s Body-Temple was torn ('cut off') on the cross, the inner veil of the Herodian stone Temple was split in two from top to bottom (Matthew 27:51). This structural breach signaled that the divine presence (Shekinah) had departed from the earthly housing of stone, rendering it desolate—just as the departure of God's glory preceded the destruction of Solomon's Temple at the end of the historical 434 years (Ezekiel 10).",
+          "2. 'Not One Stone Upon Another': Shortly before His passion, Jesus walked out of the stone Temple complex and foretold its total ruin: 'Not one stone shall be left here upon another that shall not be thrown down' (Matthew 24:2). By rejecting the living Temple of His body, the earthly Jerusalem sealed the destruction of its physical sanctuary, duplicating the historical desolation that occurred at the end of the Solomonic 62-week cycle."
+        ]
+      },
+      {
+        "heading": "8. The Three-Day Reconstruction: The Unbreakable Royal Line",
+        "content": [
+          "The most radical divergence between the historical shadow and the prophetic reality lies in the power of the reconstruction:",
+          "• The Historical Reconstruction (Decades of Delay): When Solomon's Temple fell at the end of the first 434-year epoch (536.5 BC), the stone structure lay in absolute desolation for decades. Even after the decree of Cyrus, the Second Temple took over 20 years to rebuild under Zerubbabel and lacked the Ark of the Covenant, the Urim and Thummim, and the visible manifest glory of God.",
+          "• The Prophetic Reconstruction (The 3-Day Imperishable Temple): When the Body-Temple of the Messiah was destroyed at the climax of the prophetic 62 weeks, its desolation lasted only three days. By raising His body from the grave on the third day, Jesus established a Temple that can never be overthrown, breached, or destroyed by earthly empires.",
+          "HISTORICAL TEMPLE (Solomon) vs PROPHETIC TEMPLE (Body of Christ):\n• Built of stone & timber | Living body of the Incarnate Word\n• 434-Year span (Solomon → Exile) | 434-Year prophetic countdown\n• Destroyed by Nebuchadnezzar | 'Cut off' / Crucified at Golgotha\n• Ruined for decades | Rebuilt in 3 Days (Resurrection)"
+        ]
+      },
+      {
+        "heading": "9. Synthesis: The Sabbatical Key to Messianic Hope",
+        "content": [
+          "The 62-week mirror from Solomon to the destruction of the Temple establishes that biblical history is governed by a precise sabbatical architecture. The 434 years that measured the lifetime of Solomon's kingdom were not a mere historical accident, but a pre-designed template.",
+          "When Jesus stood in the Temple courts and declared, 'Destroy this temple, and in three days I will raise it up,' He was invoking the entire 62-week chronological lineage of the Davidic dynasty. He revealed that the true destination of the 434-year monarchical cycle was never a physical building in Jerusalem, but the eternal, resurrected Body of the Son of David—the living sanctuary where God and humanity are permanently reconciled."
+        ]
+      }
+    ]
+  },
+  {
+    "part": "Part 9",
+    "heading": "Dual Judgments & The Mystery of Three Days",
+    "paragraphs": [
+      "The prophetic alignment between the two 62-week epochs culminates in two distinct historical judgments that mirror one another across time and redemptive history."
+    ],
+    "subsections": [
+      {
+        "heading": "10. The Dual Covenantal Judgments: Babylon and Rome",
+        "content": [
+          "The prophetic alignment between the two 62-week epochs culminates in two distinct historical judgments that mirror one another across time:",
+          "1. The First Desolation (536.5 BC): At the close of the historical 434-year period, the rejection of the prophetic warnings of Jeremiah and Ezekiel led directly to the siege of Jerusalem by Nebuchadnezzar. The stone Temple was razed, the Ark of the Covenant was lost, and the Davidic line was stripped of its earthly crown.",
+          "2. The Second Desolation (70 AD): In exact typological symmetry, the rejection and 'cutting off' of the Messiah at the close of the prophetic 62-week countdown sealed the fate of the Second Temple. Within one generation of the crucifixion—mirroring the 40-year wilderness probation—the Roman legions under Titus breached Jerusalem, destroyed the rebuilt stone sanctuary, and scattered the nation.",
+          "In both instances, the physical desolation of the earthly sanctuary served as the external sign that a 62-week epoch of covenant probation had expired."
+        ]
+      },
+      {
+        "heading": "11. The Mystery of the Three Days: Overcoming the 70-Year Exile",
+        "content": [
+          "In the first 62-week cycle, the collapse of the stone Temple initiated a 70-year physical exile in Babylon before any restoration could begin. The land had to lie desolate to recover its missed sabbaths.",
+          "However, in the fulfillment of the second 62-week cycle, Jesus compressed the restorative work of the sanctuary into a 3-day bodily transformation:",
+          "• Day 1 (The Destruction): The tearing down of the Body-Temple on Golgotha, taking the entire accumulated curse of the 62-week debt onto the cross.",
+          "• Day 2 (The Sabbath Rest): The physical body resting in the tomb, satisfying the true and final Sabbatical requirement in the earth.",
+          "• Day 3 (The Glorious Resurrection): The raising of the living Temple—not through human labor, timber, or stone, but through the power of an indestructible life (Hebrews 7:16).",
+          "By replacing a 70-year physical exile with a 3-day spiritual triumph, Christ brought the cyclical pattern of desolation to an absolute end for those aligned with His kingdom.",
+          "HISTORICAL CYCLE (Stone Temple) vs PROPHETIC FULFILLMENT (Body-Temple):\n• 434 Years of Monarchy | 434 Years Prophetic Countdown\n• Physical Ruin of Sanctuary | Crucifixion of the Messiah\n• 70 Years of Babylonian Exile | 3 Days in the Heart of the Earth\n• Temporary Second Temple Rebuilt | Eternal, Resurrected Living Temple"
+        ]
+      },
+      {
+        "heading": "12. Synthesis: The Unshakable Temple of the Son of David",
+        "content": [
+          "The 62-week mirror from Solomon’s throne to the destruction of the Temple provides the ultimate Christological synthesis of the Davidic dynasty:",
+          "The 434 years that measured the rise and fall of Judah’s kings were never meant to terminate in a monument of stone. Every king from Solomon to Zedekiah, every sabbatical year ignored, and every structural beam of the Jerusalem Temple pointed toward a singular, divine intent—the preparation for a King whose very body would become the meeting place between God and man.",
+          "When Jesus Christ walked out of the tomb on the third day, the 62-week prophetic framework achieved its eternal objective. The earthly shadow passed away, leaving in its place an indestructible, living Davidic Dynasty and an eternal Temple that no earthly empire can ever tear down."
+        ]
+      },
+      {
+        "heading": "13. The Spiritual Architecture: Believers as the Living Stones",
+        "content": [
+          "The climax of the 62-week transformation from a physical building to a resurrected body extends beyond the person of Jesus Christ—it incorporates the entire redeemed community into this eternal sanctuary.",
+          "When Christ raised the Body-Temple in three days, He initiated an architectural shift predicted throughout the Davidic lineage:",
+          "• From Single Pillar to Corporate Body: In Solomon’s Temple, the structural weight rested on massive, carved stones and two prominent bronze pillars named Jachin and Boaz (1 Kings 7:21). Under the resurrected Messiah, believers themselves are integrated as 'living stones' built upon the foundation of the apostles and prophets, with Christ Jesus Himself as the chief cornerstone (1 Peter 2:5, Ephesians 2:20).",
+          "• The Permanent Dwelling of the Spirit: The First Temple’s 434-year history was marked by the constant threat of the divine presence departing due to idolatry. In contrast, the New Covenant Temple—rooted in the indestructible life of the resurrected King—ensures that the Holy Spirit permanently indwells the church (1 Corinthians 3:16). The 62-week prophetic trajectory thus culminates in a sanctuary that can never be defiled, breached, or abandoned.",
+          "HISTORICAL SOLOMONIC TEMPLE vs NEW COVENANT BODY-TEMPLE:\n• Quarried, inanimate stones | 'Living stones' (Believers)\n• Localized geographic center | Global, organic dwelling\n• Susceptible to physical siege | Impervious to the gates of Hades\n• Glory departed at the Exile | Permanent indwelling of the Spirit"
+        ]
+      }
+    ]
+  },
+  {
+    "part": "Part 10",
+    "heading": "Liturgical Synthesis & Covenantal Blueprint",
+    "paragraphs": [
+      "Tracing the 62 weeks resolves the ultimate paradox of the Davidic covenant, redefining priesthood, sacrifice, and the overarching blueprint of redemptive history."
+    ],
+    "subsections": [
+      {
+        "heading": "14. Epilogue: The Eternal Resolution of the Davidic Kingdom",
+        "content": [
+          "Tracing the 62 weeks from Solomon’s throne to the fall of Jerusalem, and recognizing its prophetic mirror in the crucifixion and resurrection of Jesus Christ, resolves the ultimate paradox of the Davidic covenant.",
+          "The historical 434 years demonstrated the fragility of human kingship and stone edifices. Had the covenant relied on earthly monarchs and physical buildings, the destruction at 536.5 BC would have marked the absolute end of the Davidic hope.",
+          "Instead, the prophetic mirror reveals that the 62-week structure was a divine countdown. By subjecting the earthly monarchy and the stone sanctuary to their appointed end, divine providence prepared the way for the true Son of David. In the destruction of His Body-Temple on the cross and its glorious resurrection on the third day, Jesus fulfilled the 62-week prophetic blueprint—establishing an everlasting kingdom, an indestructible Temple, and a royal line that reigns forever."
+        ]
+      },
+      {
+        "heading": "15. The Liturgical Synthesis: From Animal Sacrifices to the Perpetual Offering",
+        "content": [
+          "The transition from the historical 62-week Solomonic era to the resurrected Body-Temple fundamentally redefines the nature of worship and priesthood within the Davidic framework:",
+          "• The Imperfection of the First Temple Altars: Throughout the 434-year span of the Judean monarchy, millions of animal sacrifices were offered on the altar of burnt offerings in Jerusalem. Yet, as the historical collapse at 536.5 BC proved, these physical offerings could never permanently blot out sin or prevent covenant desolation.",
+          "• The Finality of the Body-Temple Sacrifice: When the 62 prophetic weeks culminated in the 'cutting off' of the Messiah, the true Lamb of God offered a single, unrepeatable sacrifice (Hebrews 10:12). The destruction of His Body-Temple on Golgotha satisfied the liturgical demands of the Law, rendering the blood of bulls and goats obsolete and bringing an end to the Old Covenant sacrificial order.",
+          "• The Heavenly High Priest: In His resurrected, three-day body, Christ entered not into a sanctuary made with human hands, but into heaven itself (Hebrews 9:24). As the eternal King-Priest after the order of Melchizedek, He presents His glorified body as a perpetual testament of redemption, guaranteeing that the New Covenant sanctuary remains forever open to the redeemed.",
+          "SOLOMONIC 62-WEEK LITURGY vs MESSANIC 62-WEEK FULFILLMENT:\n• Repeated animal sacrifices | Once-for-all bodily sacrifice\n• Earthly, perishable altar | Heavenly, eternal sanctuary\n• Levitical, mortal priesthood | Melchizedekian, immortal Priest\n• Terminated in physical fire | Sealed in resurrection glory"
+        ]
+      },
+      {
+        "heading": "16. The Eschatological Horizon: The Ultimate New Jerusalem",
+        "content": [
+          "The trajectory of the 62-week mirror does not end in the present church age; it points toward the final consummation depicted in apocalyptic vision.",
+          "In the Book of Revelation, the Apostle John beholds the ultimate fulfillment of the resurrected Body-Temple in the New Jerusalem: 'And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb.' (Revelation 21:22)",
+          "The 434-year historical journey that began with Solomon erecting a stone house in Jerusalem finds its absolute, eternal destiny in a universe where physical structures are no longer necessary. The Lamb—the glorified Son of David whose body was destroyed and raised in three days—becomes the literal light and sanctuary of the cosmos.",
+          "Through this master prophetic architecture, the 62 weeks move from a historical shadow of stone and cedar to a living, resurrected King, establishing a kingdom that shall never end."
+        ]
+      },
+      {
+        "heading": "17. The Covenantal Blueprint: Summarizing the Dual-Epoch Blueprint",
+        "content": [
+          "The synthesis of the 62-week mirror establishes an undeniable thematic, mathematical, and theological bridge across the two Testaments. What began under Solomon as a physical, stone-and-cedar sanctuary spanning 434 years of national probation found its ultimate counter-type in the 434-year prophetic countdown to the Messiah, whose own body became the true, indestructible Temple.",
+          "THE DUAL 62-WEEK ARCHITECTURAL ARC:\nSolomon's Accession (970.0 BC) → 62 Weeks of Monarchical Regnal Years → Fall of First Temple (536.5 BC)\nPost-Exilic Prophetic Decree → 62 Prophetic Weeks unto Messiah → 'Cutting Off' of Messiah on Cross & Resurrection in 3 Days"
+        ]
+      }
+    ]
+  },
+  {
+    "part": "Part 11",
+    "heading": "Cosmic Sabbath & The Sovereign Blueprint",
+    "paragraphs": [
+      "The completion of the 62-week mirror transitions the Davidic kingdom out of temporal sabbatical cycles into an irreversible state of cosmic rest and sovereign grace."
+    ],
+    "subsections": [
+      {
+        "heading": "18. The Final Verdict: History as Sacred Drama",
+        "content": [
+          "When evaluated in its entirety, the 62-week mirror proves that biblical history does not unfold through random political collisions or unguided human choices. The 434 years allotted to the Judean monarchy were constructed with mathematical precision, laying down a shadow-pattern that would validate the identity of Jesus of Nazareth centuries later.",
+          "When Christ declared that the Temple of His body would be destroyed and rebuilt in three days, He was not simply making a provocative claim to the religious leaders in Jerusalem; He was invoking the entire sabbatical and architectural ledger of the Davidic dynasty. By rising from the dead on the third day, He fulfilled the historical 62 weeks, terminated the cycle of national desolation, and established an eternal Davidic throne and sanctuary that can never be shaken."
+        ]
+      },
+      {
+        "heading": "19. The Cosmic Sabbath: Entrance into Eternal Rest",
+        "content": [
+          "The completion of the 62-week mirror transitions the Davidic kingdom out of temporal sabbatical cycles and into an irreversible state of cosmic rest. In the historical epoch, every 7th year and every 49th/50th year required a reset because human rulers consistently defaulted on their covenant obligations, resulting in spiritual fatigue and environmental desolation.",
+          "• The Exhaustion of the Temporal Law: The 434 years of the Judean kings proved that under mortal leadership, the law of the sabbatical rest operated primarily as an instrument of judgment rather than true liberation. The land only achieved its required rest through the violent expulsion of the people at the end of the historical 62 weeks.",
+          "• The Messianic Sabbath Rest: When the Messiah was 'cut off' at the end of the prophetic 62 weeks, His bodily burial on the Sabbath day signaled the end of human striving to construct a lasting kingdom through legalistic keeping of stone-and-timber mandates.",
+          "• The New Creation Dawn: Rising on the first day of the week—the 'eighth day' following the completed sabbatical cycle—Christ inaugurated the New Creation. His resurrected Body-Temple does not merely observe a sabbatical year every seven years; it exists as the perpetual, unceasing Sabbath where humanity permanently rests from its works (Hebrews 4:9–10)."
+        ]
+      },
+      {
+        "heading": "20. Concluding Doxology: The Unbroken Lineage of the Word",
+        "content": [
+          "Ultimately, the 62-week mirror stands as an unshakeable monument to divine providence across human generations. From the moment Solomon laid the foundation stone on Mount Moriah to the moment the Roman soldiers drove nails into the hands of Jesus on Golgotha, every regnal year, every sabbatical interval, and every prophetic vision aligned to declare one central truth:",
+          "The earthly Jerusalem and its majestic stone Temple were never the final destination. They were the preliminary sketches drawn by the Divine Architect. The true Solomon has arrived, the true 434-year countdown has reached its glorious zero, and the Temple of His Body—raised in three days—stands exalted as the eternal throne of David, reigning over all creation forevermore."
+        ]
+      },
+      {
+        "heading": "21. The Hermeneutical Pillar: A Canonical Paradigm for Typology",
+        "content": [
+          "The structural correspondence of the 62-week mirror serves as a fundamental hermeneutical key for interpreting Old Testament narrative and prophetic literature. It demonstrates that typology is not a system of arbitrary allegorical comparisons, but a rigorous, mathematically grounded framework embedded directly into the historical record.",
+          "• Textual Coherence: By anchoring the 434-year span in both the concrete historical records of 1 & 2 Kings / 2 Chronicles and the visionary apocalyptic text of Daniel 9, scripture reveals a single, unified authorship across centuries. The regnal lengths recorded for each Judean sovereign are not disconnected statistics; they form a pre-calculated mathematical matrix.",
+          "• The Antitypical Escalation: Biblical typology operates on the principle of escalation—where the antitype (the New Testament fulfillment) dramatically surpasses the type (the Old Testament shadow). The Solomonic stone Temple required 434 years to complete its historical arc before collapsing into rubble. In contrast, the antitypical Temple—the Body of Christ—was cut off, raised in a mere 3 days, and escalated from a localized structure in Judea to an all-encompassing, spiritual house governing the entire cosmos."
+        ]
+      },
+      {
+        "heading": "22. The Sovereign Blueprint: Grace Victorious Over Monarchy's Failure",
+        "content": [
+          "Looking across the vast canvas of the 62 weeks highlights the triumph of divine grace over human fallenness. The historical 434-year line from Solomon to Zedekiah was plagued by persistent idolatry, political compromise, and covenantal unfaithfulness. Human kings consistently failed to uphold the righteousness required to maintain the dwelling place of God among men.",
+          "Yet, divine sovereignty turned the failure of the earthly monarchy into the backdrop for ultimate redemption:",
+          "1. The Preservation of the Line: Despite the apostasy of kings like Manasseh and Ahaz, the Davidic lineage was preserved through the 434-year descent into exile, ensuring that the legal and biological right to the throne remained unbroken until Christ.",
+          "2. The Substitutionary King: Where twenty earthly Judean monarchs failed to guard the stone Temple from defilement, the sinless Son of David stood as the perfect King. He yielded His own Body-Temple to be destroyed on Golgotha, absorbing the accumulated 434-year curse of the nation and offering His resurrected body as an eternal, untainted sanctuary for all who believe.",
+          "Through the 62-week mirror, sacred history stands unveiled: the fall of the stone Temple was never a victory for Babylon, but the divine clearing of the stage for the indestructible, three-day resurrection of the Living Temple of God."
+        ]
+      }
+    ]
+  }
+]
